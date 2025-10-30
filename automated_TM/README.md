@@ -3,6 +3,7 @@ usage: tm.py [--sqldump SQLDUMP] [--debug] [--dfd] [--report REPORT]
              [--list-elements] [--json JSON] [--levels LEVELS [LEVELS ...]]
              [--stale_days STALE_DAYS]
 python tm.py
+python tm.py --json vehicle_infotainment_report.json
 python pretty_json.py
 
 ## Awaited output 
